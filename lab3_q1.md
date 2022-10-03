@@ -15,7 +15,7 @@ The markdown syntax is a way of **structuring** documents and providing styling 
 \*\*|Bold|**Bold**
 \~\~|Strikethrough|~~Strikethrough~~
 \`\`|Command|`Command`
-\\|Escape Characters|\* Two asterisks \*
+\ |Escape Characters|\* Two asterisks \*
 
 You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
 
