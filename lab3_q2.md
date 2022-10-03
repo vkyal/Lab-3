@@ -20,6 +20,7 @@ Or, in pure Markdown,but losing the image and border:
 [![Welcome to UBC's Okanagan campus](https://www.youtube.com/watch?v=ofl9I4LsFh8)](https://www.youtube.com/watch?v=ofl9I4LsFh8)
 ```
 Click on the image to play the video:
+
 [![Welcome to UBC's Okanagan campus](https://img.youtube.com/vi/ofl9I4LsFh8/0.jpg)](https://www.youtube.com/watch?v=ofl9I4LsFh8)
     
     
