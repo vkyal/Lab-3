@@ -1,6 +1,6 @@
 # **Markdown**
 ***
-The markdown syntax is a way of **structuring** documents and providing styling without having to use **HTML** or **Cascading Style Sheets.** The name is the play on the term *markup,* which is the process of preparing documents for printing through the process of editing and layout.
+The Markdown syntax is a way of **structuring** documents and providing styling without having to use **HTML** or **Cascading Style Sheets.** The name is the play on the term *markup,* which is the process of preparing documents for printing through the process of editing and layout.
 
 # **Features of GitHub Markdown**
 - [x] **Simple, symbolic syntax**
@@ -29,7 +29,7 @@ Maybe you'll find it handy!
 Don't miss to add the following horizontal line
 ***
 # **A quote from Mark Weiser.**
->The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it[^1].
+>*The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it[^1].*
 
 [^1]:The Computer for the 21st Century. Originally published **_1991: Scientific American._**
 
